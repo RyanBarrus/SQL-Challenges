@@ -1,1 +1,1 @@
-I love coding challenges. This repository is SQL challenges that I have made.
+I love coding challenges. This repository contains the question/prompt portion of SQL challenges that I have created.
