@@ -91,7 +91,7 @@ TRUNCATE TABLE dbo.Challenge
 /***************************************************************************
 Expected Result:
 
-ID		1		2		3		4		5		6
+   ID	   1	   2	   3	   4	   5	   6
    1	   a	NULL	NULL	NULL	NULL	NULL
    2	   a	NULL	NULL	NULL	NULL	NULL
    3	   a	   d	NULL	NULL	NULL	NULL
